@@ -8,6 +8,7 @@
 - 有任何问题可以提交[issues](https://github.com/YooKing/HAUT_autoCheck/issues/new)  
 
 **感谢所有参与完美校园打卡项目的人！**
+
 ## 使用方法 
 - [进入WIKI](https://github.com/YooKing/HAUT_autoCheck/wiki)
 
